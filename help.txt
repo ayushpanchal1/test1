@@ -1,0 +1,25 @@
+1. Python IDE installation and environment setup, NLTK, Numpy, Matplotlib etc packages installation. 
+
+2. Implement the basic functions of NLTK, Spacy, Word2Vec,etc. 
+
+3. Perform the Pre-processing of text (Tokenization, Filtration, Script Validation, Stop Word Removal, Stemming)
+
+4. Perform the Morphological analysis of a word, to generate word forms from root and suffix information
+
+5. Implement the morphology of a word by the use of Add-Delete table LO2,
+
+6. Implementation of bigrams from a given corpus and calculate probability of a sentence.
+
+7. Learn how to apply add-one smoothing on sparse bigram table and implement it
+
+8. Find POS tags of words in a sentence. LO4,
+
+9. Calculate emission and transition matrix which will be helpful for tagging Parts of Speech using Hidden Markov Model.
+
+10. A. Implementation of WordNet with features.
+
+10. B. Implementation of word sense disambiguation
+
+11. Understand and implement the concept of chunking and get familiar with the basic chunk tagset.
+
+12. Implementation of any applications like Machine translation, Information retrieval, Question answers system, Categorization, Summarization; Sentiment analysis, Named Entity Recognition.
